@@ -1,0 +1,9 @@
+{
+  "name": "fast-fit-tyres",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FAST FIT Tyres website with booking request form",
+  "scripts": {
+    "dev": "node --env-file=.env server.js"
+  }
+}
