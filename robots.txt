@@ -1,0 +1,6 @@
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+
+# Canonical Sitemap
+Sitemap: https://fastfit-tyres.com/sitemap.xml
